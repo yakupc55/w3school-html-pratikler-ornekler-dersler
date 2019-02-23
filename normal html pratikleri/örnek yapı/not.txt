@@ -1,0 +1,24 @@
+Bu ilk örnekte html5 standartlarında temel bir html sayfası nasıl olur. Onunla ilgili pratiksel bir kod yazdık.
+
+HTML nedir diye belli başlı bir bilgi verirsek eğer:
+
+-Web sayfalarını oluşturmak için kullanılan standart haline gelmiş bir biçimlendirme dilidir.
+-HTML hiper metin işleme dili anlamına gelir
+-HTML,bir işaretleme  yapısı kullanarak Web sayfalarının yapısını açıklar
+-HTML öğeleri, HTML sayfalarının yapı taşlarıdır
+-HTML öğeleri etiketlerle temsil edilir
+-HTML etiketleri, "başlık", "paragraf", "tablo" vb. Gibi içerik parçalarını etiketler.
+-Kullandığımız tarayıcılar HTML etiketlerini göstermez, fakat sayfanın içeriğini oluşturmak için bu etiketleri kullanır.
+
+ilk basit pratikteki yapıları açıklamak gerekirse :
+
+<! DOCTYPE html> bildirimi bu belgeyi HTML5 olarak tanımlar
+<html> öğesi, bir HTML sayfasının kök öğesidir
+<head> öğesi, belge hakkında meta bilgiler içerir
+<title> öğesi, belge için bir başlık belirtir
+<body> öğesi, görünen sayfa içeriğini barındırır
+<h1> öğesi büyük bir başlık tanımlar
+<p> öğesi bir paragraf tanımlar
+
+<etiketİsmi> Bu yazı,etikete ait bir içerik </etiketİsmi>
+
